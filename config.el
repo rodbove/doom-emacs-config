@@ -22,8 +22,8 @@
 (setq doom-theme 'doom-monokai-pro)
 
 ;; Font config
-(setq doom-font (font-spec :family "Mononoki Nerd Font" :size 16)
-      doom-big-font (font-spec :family "Mononoki Nerd Font" :size 20)
+(setq doom-font (font-spec :family "Inconsolata" :size 16)
+      doom-big-font (font-spec :family "Inconsolata" :size 20)
       doom-variable-pitch-font (font-spec :family "Overpass" :size 16)
       doom-unicode-font (font-spec :family "JuliaMono")
       doom-serif-font (font-spec :family "IBM Plex Mono" :weight 'light))
