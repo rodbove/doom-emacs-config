@@ -19,11 +19,11 @@
 ;;       doom-variable-pitch-font (font-spec :family "sans" :size 13))
 ;; available. You can either set `doom-theme' or manually load a theme with the
 ;; `load-theme' function. This is the default:
-(setq doom-theme 'doom-monokai-pro)
+(setq doom-theme 'doom-palenight)
 
 ;; Font config
 (setq doom-font (font-spec :family "Inconsolata" :size 18)
-      doom-big-font (font-spec :family "Inconsolata" :size 24)
+      doom-big-font (font-spec :family "Inconsolata" :size 22)
       doom-variable-pitch-font (font-spec :family "Overpass" :size 16)
       doom-unicode-font (font-spec :family "JuliaMono")
       doom-serif-font (font-spec :family "IBM Plex Mono" :weight 'light))
@@ -42,3 +42,4 @@
 (setq erc-server "irc.libera.chat"
       erc-nick "rodbove"
       erc-user-full-name "Rodrigo Mello")
+
