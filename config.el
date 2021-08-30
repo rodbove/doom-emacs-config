@@ -43,3 +43,4 @@
       erc-nick "rodbove"
       erc-user-full-name "Rodrigo Mello")
 
+(setq fancy-splash-image "/home/rodrigo/.dotfiles/emacs/emacs-logo.png")
